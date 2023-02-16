@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **bartlomiejczakkapi@gmail.com**
 
-- ⚡ Fun fact **I am focus only on my projects now**
+- ⚡ Fun fact **I am focused only on my projects now**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kbartlomiejczak2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kbartlomiejczak2" height="30" width="40" /></a>
 <a href="https://discord.gg/Leszczu#0595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leszczu#0595" height="30" width="40" /></a>
